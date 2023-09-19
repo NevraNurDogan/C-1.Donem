@@ -48,19 +48,19 @@ int main() {
     printf("\n x=1 icin (1-27)/5:%f",sonuc);
      
     
-   x=x+1;//x deðerini artýrýnýz.
+   x=x+1;//x deÄŸerini artÄ±rÄ±nÄ±z.
     float sonuc1,c=x*x*x,d=y*y;
     sonuc1=(c-(0.1*d)-Toplam);
     sonuc1=sonuc1/5;
     printf("\n x=2 icin (8-27)/5:%f",sonuc1);
     
-    x=x+1;//x deðerini artýrýnýz.
+    x=x+1;//x deÄŸerini artÄ±rÄ±nÄ±z.
      float sonuc2,e=x*x*x,f=y*y;
     sonuc2=(e-(0.1*f)-Toplam);
     sonuc2=sonuc2/5;
     printf("\n x=3 icin (27-27)/5:%f",sonuc2);
     
-     x=x+1;//x deðerini artýrýnýz.
+     x=x+1;//x deÄŸerini artÄ±rÄ±nÄ±z.
      float sonuc3,g=x*x*x,h=y*y;
     sonuc3=(g-(0.1*h)-Toplam);
     sonuc3=sonuc3/5;
@@ -68,20 +68,20 @@ int main() {
     printf("\n x=4 oldugunda elde edilen sonuc araligindan cok uzaklastigindan x=3 olacaktir.");
     
     
-    x=3;//x artýk 3 olarak denklemde kullanýlacaktýr.
-    y=y+1;//y deðerini artýrýnýz.
+    x=3;//x artÄ±k 3 olarak denklemde kullanÄ±lacaktÄ±r.
+    y=y+1;//y deÄŸerini artÄ±rÄ±nÄ±z.
     float sonuc4,i=x*x*x,j=y*y;
     sonuc4=(i-(0.1*j)-Toplam);
     sonuc4=sonuc4/5;
     printf("\n y=1 icin (27-0.1-27)/5:%f",sonuc4);
     
-    y=y+1;//y deðerini artýrýnýz.
+    y=y+1;//y deÄŸerini artÄ±rÄ±nÄ±z.
     float sonuc5,k=x*x*x,l=y*y;
     sonuc5=(k-(0.1*l)-Toplam);
     sonuc5=sonuc4/5;
     printf("\n y=2 icin (27-0.4-27)/5:%f",sonuc5);
     
-    y=y+1;//y deðerini artýrýnýz.
+    y=y+1;//y deÄŸerini artÄ±rÄ±nÄ±z.
     float sonuc6,m=x*x*x,n=y*y;
     sonuc6=(m-(0.1*n)-Toplam);
     sonuc6=sonuc6/5;
